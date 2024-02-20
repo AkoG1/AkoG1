@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Aleksandre, an Android developer passionate ab
 
 Here are some of the Android projects I've worked on:
 
-- [Extra.ge] (https://play.google.com/store/apps/details?id=ge.extra): 1st Georgian Shopping app for the biggest online marketplace combining more than 150,000 offers from hundreds of stores and merchants in mobile phone!
+- [Extra.ge](https://play.google.com/store/apps/details?id=ge.extra): 1st Georgian Shopping app for the biggest online marketplace combining more than 150,000 offers from hundreds of stores and merchants in mobile phone!
 - [GPSControl](https://play.google.com/store/apps/details?id=ge.casatrade.gpscontrol): GPSControl is the only fleet management solution that combines true fleet intelligence and great customer service for companies worldwide.
 - [GPSControl Connect](https://play.google.com/store/apps/details?id=ge.casatrade.gpscontroldriver): This app allows you to interact with a driver in real time and control starting and finishing of a job, chat with driver, control drivers' check in/check out's
 - [TVG](): IPTV in Georgia (for android TV, android boxes & android phones). Application is fully developed by team of 2.
